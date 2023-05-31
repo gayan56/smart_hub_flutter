@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12624666742",
+    "project_id": "smart-hub-flutter",
+    "storage_bucket": "smart-hub-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12624666742:android:ade65b9c516f8a896abf57",
+        "android_client_info": {
+          "package_name": "com.example.smart_hub_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQLqd0OVruR5oL32kP-bE6fQ8mRybQfmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
